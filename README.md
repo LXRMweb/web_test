@@ -1,0 +1,2 @@
+# web_test
+学习web开发初期建立的一个工程，里面含有一些使用struts1的demo
