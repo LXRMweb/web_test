@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<Contextreloadable="true"/>
+		<!-- ÉèÖÃTomcat¼àÊÓÖ¸¶¨µÄWebÓ¦ÓÃÖÐµÄweb.xmlºÍclasses±ä¶¯£¬ÓÐ±ä¶¯×Ô¶¯¼ÓÔØ
+		·½·¨ÊÇÔÚ$CATALINA/webapps/yourapp/META-INFÖÐÐÂ½¨context.xmlÎÄ¼þ£¬ÄÚÈÝÎª
+		<Contextreloadable="true"/>
+		×¢Òâ£ºËäÈ»<Context>ÔªËØÒ²¿ÉÒÔÔÚ$CATALINA/conf/server.xmlÖÐÉè¶¨£¬µ«ÊÇreloadableÊôÐÔÔÚÕâÀïÉèÖÃÊÇ²»Æð×÷ÓÃµÄ¡£Í¬ÑùµÄ£¬<Context>µÄpath£¬docBaseÊôÐÔÔÚ$CATALINA/webapps/yourapp/META-INF/context.xmlÖÐÉèÖÃÒ²ÊÇÎÞÐ§µÄ£¬Ó¦¸ÃÔÚserver.xmlÎÄ¼þÖÐÉèÖÃ²ÅÄÜÉúÐ§¡£ -->

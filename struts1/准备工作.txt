@@ -1,0 +1,6 @@
+1）配置Struts开发环境（参考javaweb开发实战经典P437）
+step1：下载struts开发包：如本例中下载了struts-1.3.10-all.zip
+	网址：http://struts.apache.org/download.cgi#struts23281
+step2：解压
+step3：将解压后lib目录下的全部*.jar包复制到%TOMCAT_HOME%\lib目录中（即d:/web_test/WEB-INF/lib）
+step4:在项目目录的WEB-INF文件夹下建立struts-config.xml文件（即d:/web_test/WEB-INF文件夹下）

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN" "http://struts.apache.org/dtds/struts-config_1_3.dtd">
+<struts-config>
+	<form-beans /><!-- 用于配置actionForm -->
+	<global-exceptions /><!-- 用于配置全局异常 -->
+	<global-forwards /><!-- 用于配置全局跳转 -->
+	<action-mappings /><!-- 用于配置action -->
+	<message-resources parameter="struts1.mystruts"><!-- 用于配置资源文件路径，资源文件保存在WEB-INF/classes文件夹下，通过parameter属性指定路径及文件名称，文件名称的后缀是*.properties -->
+</struts-config>
